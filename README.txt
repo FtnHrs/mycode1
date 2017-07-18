@@ -1,1 +1,1 @@
-Welcome to the neighborhood
+Welcome to GithubTraining!
